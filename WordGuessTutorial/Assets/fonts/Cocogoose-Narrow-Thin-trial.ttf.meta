@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a8bff3a66e3c01846aef3b3ac35d1789
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cocogoose Narrow Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 34d14481c1d59d947aa5b91610759093, type: 3}
+  - {fileID: 12800000, guid: d7e1ec8614ec933418562e340fa63df2, type: 3}
+  - {fileID: 12800000, guid: 735f32cdf5a815d4c9aa63ca75dcaf1f, type: 3}
+  - {fileID: 12800000, guid: 76bb2d3dd469e6a45b29490fa9db8f5d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 61a7bad5508c5ea40a13ddf58c54309e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cocogoose Compressed Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f06a97e2e49db7d4cafe3f396bfb2f52, type: 3}
+  - {fileID: 12800000, guid: f0df868005f04f547a27e6a568e3e380, type: 3}
+  - {fileID: 12800000, guid: 607d975c09e050a48af706b22d46c283, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
